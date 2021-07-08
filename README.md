@@ -9,7 +9,7 @@ https://github.com/diodimi/node-weather-website.git
 ```
 2.Install NPM packages.
 ```
-nmpm install
+npm install
 ```
 3.Run the website
 ```
